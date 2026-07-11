@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Test caches
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor-specific files
+.vscode/
+
+# Exercism download metadata
+.exercism/
+
+# Operating-system debris
+Thumbs.db
+.DS_Store
